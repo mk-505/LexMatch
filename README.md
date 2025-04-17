@@ -78,7 +78,7 @@ The script will:
 
 ## 📁 Included
 
-- `main.py` — the full working semantic similarity engine
+- `synonyms.py` — the full working semantic similarity engine
 
 📄 No datasets are included. To test this script, please supply your own `.txt` files.
 
